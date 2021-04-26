@@ -2,4 +2,4 @@
 
 ## Category
 
-![Alt](./0_Game_Programmer.pdf){width=100% height=400}
+[path](0_Game_Programmer.pdf)
