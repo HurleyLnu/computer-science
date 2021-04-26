@@ -2,4 +2,4 @@
 
 ## Category
 
-![image](game-programmer.jpg)
+
