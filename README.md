@@ -2,4 +2,4 @@
 
 ## Category
 
-![Alt](0_Game_Programmer.pdf)
+![Alt](game-programmer.pdf)
