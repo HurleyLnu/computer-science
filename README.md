@@ -2,4 +2,4 @@
 
 ## Category
 
-![Alt](game-programmer.pdf)
+![image](game-programmer.jpg)
