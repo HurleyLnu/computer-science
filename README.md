@@ -2,4 +2,4 @@
 
 ## Category
 
-[path](0_Game_Programmer.pdf)
+![Alt](0_Game_Programmer.pdf)
