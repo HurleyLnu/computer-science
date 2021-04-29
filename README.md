@@ -9,6 +9,8 @@
 - [Programming Language](#Programming-Language) 
     - [C++](#c) 
 - [Data Structures and Algorithms](#Data-Structures-and-Algorithms)
+- [Computer Architecture and Organization](#Computer-Architecture-and-Organization)
+- [Computer Graphics and Visualization](#Computer-Graphics-and-Visualization)
 
 ## Field
 
@@ -49,4 +51,17 @@
     - [ ] Introduction to Algorithms(3rd)
 - [Note](Data%20Structures%20and%20Algorithms.md)
 
+## Computer Architecture and Organization
+
+- Resource
+    - [ ] Computer Systems A Programmer's Perspective(3rd) 
+- [Note]()
+
+## Computer Graphics and Visualization
+
+- Resource
+    - [ ] Fundamentals of Computer Graphics(4th)
+    - [x] Introduction to 3D Game Programming with DirectX 12
+    - [ ] Fluid Engine Development
+- [Note]()
 
