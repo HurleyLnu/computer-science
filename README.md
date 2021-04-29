@@ -6,9 +6,8 @@
 ## Contents
 
 - [Field](#Field)
-- [Study](#Study)
-    - [Programming Language](#Programming-Language) 
-        - [C++](#c) 
+- [Programming Language](#Programming-Language) 
+    - [C++](#c) 
 
 
 ## Field
