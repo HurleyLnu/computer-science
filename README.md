@@ -62,6 +62,19 @@
 - Resource
     - [ ] Fundamentals of Computer Graphics(4th)
     - [x] Introduction to 3D Game Programming with DirectX 12
-    - [ ] Fluid Engine Development
+    - [x] Fluid Engine Development
 - [Note]()
+
+## Software Engineering
+
+- Resource
+    - [ ] The Mythical Man-Month(2nd)
+    - [ ] The Practice of Programming
+    - [ ] Refactoring
+    - [ ] Agile Software Development
+    - [ ] Code Complete(2nd)
+    - [ ] Design Patterns
+    - [ ] Clean Code
+    - [ ] Working Effectively with Legacy Code
+- [Note]() 
 
