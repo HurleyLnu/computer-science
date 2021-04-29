@@ -34,6 +34,7 @@
 ## Programming Language
 
 ### C++
+
 - Resource
     - [x] C++ Primer(5th)
     - [ ] Effective C++(3rd)
@@ -45,7 +46,7 @@
 ## Data Structures and Algorithms
 
 - Resource
-
-
+    - [ ] Introduction to Algorithms(3rd)
+- (Note)
 
 
