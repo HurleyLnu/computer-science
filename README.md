@@ -47,6 +47,6 @@
 
 - Resource
     - [ ] Introduction to Algorithms(3rd)
-- (Note)
+- [Note](Data%20Structures%20and%20Algorithms.md)
 
 
