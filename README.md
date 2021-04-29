@@ -34,13 +34,13 @@
 ## Programming Language
 
 ### C++
-
-- [x] C++ Primer(5th)
-- [ ] Effective C++(3rd)
-- [ ] The C++ Standard Library(2nd)
-- [ ] Effective Modern C++
-- [ ] C++ Coding Standards
-
+- Resource
+    - - [x] C++ Primer(5th)
+    - - [ ] Effective C++(3rd)
+    - - [ ] The C++ Standard Library(2nd)
+    - - [ ] Effective Modern C++
+    - - [ ] C++ Coding Standards
+- Note
 
 
 
