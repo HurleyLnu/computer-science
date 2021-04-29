@@ -37,7 +37,7 @@
 
 ### C++
 
-- Resource
+- Resources
     - [x] C++ Primer(5th)
     - [ ] Effective C++(3rd)
     - [ ] The C++ Standard Library(2nd)
@@ -47,13 +47,13 @@
 
 ## Data Structures and Algorithms
 
-- Resource
+- Resources
     - [ ] Introduction to Algorithms(3rd)
 - [Note](Data%20Structures%20and%20Algorithms.md)
 
 ## Computer Architecture and Organization
 
-- Resource
+- Resources
     - [ ] Structure and Interpretation of Computer Programs(2nd)
     - [ ] Computer Systems A Programmer's Perspective(3rd)
     - [ ] Computer Architecture(5th)
@@ -62,7 +62,7 @@
 
 ## Computer Graphics and Visualization
 
-- Resource
+- Resources
     - [ ] Fundamentals of Computer Graphics(4th)
     - [x] Introduction to 3D Game Programming with DirectX 12
     - [x] Fluid Engine Development
@@ -70,7 +70,7 @@
 
 ## Software Engineering
 
-- Resource
+- Resources
     - [ ] The Mythical Man-Month(2nd)
     - [ ] The Practice of Programming
     - [ ] Refactoring
