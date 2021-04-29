@@ -54,7 +54,10 @@
 ## Computer Architecture and Organization
 
 - Resource
-    - [ ] Computer Systems A Programmer's Perspective(3rd) 
+    - [ ] Structure and Interpretation of Computer Programs(2nd)
+    - [ ] Computer Systems A Programmer's Perspective(3rd)
+    - [ ] Computer Architecture(5th)
+    - [ ] Modern Operating System(4th)
 - [Note]()
 
 ## Computer Graphics and Visualization
