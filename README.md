@@ -8,7 +8,7 @@
 - [Field](#Field)
 - [Study](#Study)
     - [Programming Language](#Programming-Language) 
-        - [C++](##C++) 
+        - [C++](#c) 
 
 
 ## Field
