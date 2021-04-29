@@ -43,13 +43,13 @@
     - [ ] The C++ Standard Library(2nd)
     - [ ] Effective Modern C++
     - [ ] C++ Coding Standards
-- [Note](/Note/C%2B%2B.md)
+- [Note](/Notes/C%2B%2B.md)
 
 ## Data Structures and Algorithms
 
 - Resources
     - [ ] Introduction to Algorithms(3rd)
-- [Note](/Note/Data%20Structures%20and%20Algorithms.md)
+- [Note](/Notes/Data%20Structures%20and%20Algorithms.md)
 
 ## Computer Architecture and Organization
 
