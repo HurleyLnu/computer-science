@@ -40,8 +40,7 @@
     - [ ] The C++ Standard Library(2nd)
     - [ ] Effective Modern C++
     - [ ] C++ Coding Standards
-- Note
-    - [C++]()
+- [Note](C%2B%2B.md)
 
 
 
