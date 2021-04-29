@@ -32,11 +32,9 @@
     - Social Computing and Human–Computer Interaction
     - Software Engineering
 
-## Study
+## Programming Language
 
-### Programming Language
-
-#### C++
+### C++
 
 - [x] C++ Primer(5th)
 - [ ] Effective C++(3rd)
