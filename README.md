@@ -35,11 +35,11 @@
 
 ### C++
 - Resource
-    - - [x] C++ Primer(5th)
-    - - [ ] Effective C++(3rd)
-    - - [ ] The C++ Standard Library(2nd)
-    - - [ ] Effective Modern C++
-    - - [ ] C++ Coding Standards
+    - [x] C++ Primer(5th)
+    - [ ] Effective C++(3rd)
+    - [ ] The C++ Standard Library(2nd)
+    - [ ] Effective Modern C++
+    - [ ] C++ Coding Standards
 - Note
 
 
