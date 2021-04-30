@@ -64,9 +64,9 @@
 ## Computer Graphics and Visualization
 
 - Resources
-    - [ ] Fundamentals of Computer Graphics(4th)
-    - [x] Introduction to 3D Game Programming with DirectX 12
-    - [x] Fluid Engine Development
+    - [x] Introduction to 3D Game Programming with DirectX 12 
+        - [ ] Fundamentals of Computer Graphics(4th)
+            - [x] Fluid Engine Development
 - [Note]()
 
 ## Software Engineering
