@@ -39,10 +39,11 @@
 
 - Resources
     - [x] C++ Primer(5th)
-    - [ ] Effective C++(3rd)
-    - [ ] The C++ Standard Library(2nd)
-    - [ ] Effective Modern C++
-    - [ ] C++ Coding Standards
+        - [ ] Effective C++(3rd)
+            - [ ] Effective Modern C++ 
+                - [ ] C++ Coding Standards
+        - [ ] The C++ Standard Library(2nd)
+    
 - [Note](/Notes/C%2B%2B.md)
 
 ## Data Structures and Algorithms
@@ -56,8 +57,8 @@
 - Resources
     - [ ] Structure and Interpretation of Computer Programs(2nd)
     - [ ] Computer Systems A Programmer's Perspective(3rd)
-    - [ ] Computer Architecture(5th)
-    - [ ] Modern Operating System(4th)
+        - [ ] Computer Architecture(5th)
+        - [ ] Modern Operating System(4th)
 - [Note]()
 
 ## Computer Graphics and Visualization
@@ -72,12 +73,12 @@
 
 - Resources
     - [ ] The Mythical Man-Month(2nd)
-    - [ ] The Practice of Programming
-    - [ ] Refactoring
-    - [ ] Agile Software Development
-    - [ ] Code Complete(2nd)
-    - [ ] Design Patterns
-    - [ ] Clean Code
-    - [ ] Working Effectively with Legacy Code
+        - [ ] The Practice of Programming
+            - [ ] Refactoring
+                - [ ] Code Complete(2nd) 
+        - [ ] Agile Software Development
+            - [ ] Design Patterns
+                - [ ] Clean Code
+                - [ ] Working Effectively with Legacy Code
 - [Note]() 
 
