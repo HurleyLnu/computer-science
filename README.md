@@ -82,6 +82,8 @@
     - [ ] Computer Systems A Programmer's Perspective(3rd)
         - [ ] Computer Architecture(5th)
         - [ ] Modern Operating System(4th)
+- Resources
+    - [CSAPP](https://www.bilibili.com/video/av24540152)  
 - [Note]()
 
 ## Computer Graphics and Visualization
