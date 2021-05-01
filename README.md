@@ -21,24 +21,24 @@
 ### Git&Github
 
 - Resources
-    - [Documentation](https://docs.github.com/en)
+    - [ ] [Documentation](https://docs.github.com/en)
 
 ### Markdown
 
 - Resuorces
-    - [Documentation](https://www.markdownguide.org)
+    - [ ] [Documentation](https://www.markdownguide.org)
 
 ### Visual Studio Code
 
 - Resources
-    - [Documentation](https://code.visualstudio.com/docs)
+    - [ ][Documentation](https://code.visualstudio.com/docs)
  
 ## Programming Language
 
 ### C++
 
 - Resources
-    - Docmentation: Dash   
+    - [ ] Docmentation: Dash   
     - [x] C++ Primer(5th)
         - [ ] Effective C++(3rd)
             - [ ] Effective Modern C++ 
