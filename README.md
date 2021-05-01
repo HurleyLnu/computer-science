@@ -21,17 +21,17 @@
 ### Git&Github
 
 - Resources
-    - [ ] [Documentation](https://docs.github.com/en)
+    - [Documentation](https://docs.github.com/en)
 
 ### Markdown
 
 - Resuorces
-    - [ ] [Documentation](https://www.markdownguide.org)
+    - [Documentation](https://www.markdownguide.org)
 
 ### Visual Studio Code
 
 - Resources
-    - [ ] [Documentation](https://code.visualstudio.com/docs)
+    - [Documentation](https://code.visualstudio.com/docs)
  
 ## Programming Language
 
@@ -44,7 +44,7 @@
                     - [ ] C++ Coding Standards
             - [ ] The C++ Standard Library(2nd) 
 - Resources
-    - [ ] Dash   
+    - Dash   
 - [Note](/Notes/C%2B%2B.md) 
 
 ## Field
