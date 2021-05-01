@@ -19,14 +19,20 @@
 ## Tools
 
 ### Git&Github
+
 - Resources
-    - [ ] [Documentation](https://docs.github.com/en) 
-- [Note](../Notes/Git%26Github.md)
+    - [ ] [Documentation](https://docs.github.com/en)
 
 ### Markdown
 
+- Resuorces
+    - [ ] [Documentation](https://www.markdownguide.org)
+
 ### Visual Studio Code
 
+- Resources
+    - [ ] [Documentation](https://code.visualstudio.com/docs)
+ 
 ## Field
 
 - Theoretical Computer Science
