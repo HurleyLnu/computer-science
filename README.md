@@ -89,7 +89,7 @@
 ### Beginning CG Programming
 
 - Books
-    - [x] *Introduction to 3D Game Programming with DirectX 12* 
+    - [x] Introduction to 3D Game Programming with DirectX 12
 
 ### Beginning CG Theory
 
