@@ -37,14 +37,14 @@
 
 ### C++
 
+- Books
+    - [x] C++ Primer(5th)
+            - [ ] Effective C++(3rd)
+                - [ ] Effective Modern C++ 
+                    - [ ] C++ Coding Standards
+            - [ ] The C++ Standard Library(2nd) 
 - Resources
     - [ ] Dash   
-    - [x] C++ Primer(5th)
-        - [ ] Effective C++(3rd)
-            - [ ] Effective Modern C++ 
-                - [ ] C++ Coding Standards
-        - [ ] The C++ Standard Library(2nd)
-    
 - [Note](/Notes/C%2B%2B.md) 
 
 ## Field
@@ -70,13 +70,13 @@
 
 ## Data Structures and Algorithms
 
-- Resources
+- Books
     - [ ] Introduction to Algorithms(3rd)
 - [Note](/Notes/Data%20Structures%20and%20Algorithms.md)
 
 ## Computer Architecture and Organization
 
-- Resources
+- Books
     - [ ] Structure and Interpretation of Computer Programs(2nd)
     - [ ] Computer Systems A Programmer's Perspective(3rd)
         - [ ] Computer Architecture(5th)
@@ -85,7 +85,7 @@
 
 ## Computer Graphics and Visualization
 
-- Resources
+- Books
     - [x] Introduction to 3D Game Programming with DirectX 12 
         - [ ] Fundamentals of Computer Graphics(4th)
             - [x] Fluid Engine Development
@@ -93,7 +93,7 @@
 
 ## Software Engineering
 
-- Resources
+- Books
     - [ ] The Mythical Man-Month(2nd)
         - [ ] The Practice of Programming
             - [ ] Refactoring
