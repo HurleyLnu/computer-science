@@ -98,9 +98,10 @@
         - [ ] The Practice of Programming
             - [ ] Refactoring
                 - [ ] Code Complete(2nd) 
+                    - [ ] Clean Code
+                    - [ ] Working Effectively with Legacy Code
         - [ ] Agile Software Development
             - [ ] Design Patterns
-                - [ ] Clean Code
-                - [ ] Working Effectively with Legacy Code
+
 - [Note]() 
 
