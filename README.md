@@ -19,6 +19,9 @@
 ## Tools
 
 ### Git&Github
+- Resources
+    - [ ] [Documentation](https://docs.github.com/en) 
+- Note
 
 ### Markdown
 
