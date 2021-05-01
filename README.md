@@ -9,9 +9,9 @@
     - [Git&Github](#GitGithub)
     - [Markdown](#Markdown)
     - [Visual Studio Code](#Visual-Studio-Code)
-- [Field](#Field)
 - [Programming Language](#Programming-Language) 
     - [C++](#C) 
+- [Field](#Field)
 - [Data Structures and Algorithms](#Data-Structures-and-Algorithms)
 - [Computer Architecture and Organization](#Computer-Architecture-and-Organization)
 - [Computer Graphics and Visualization](#Computer-Graphics-and-Visualization)
@@ -21,18 +21,32 @@
 ### Git&Github
 
 - Resources
-    - [ ] [Documentation](https://docs.github.com/en)
+    - [Documentation](https://docs.github.com/en)
 
 ### Markdown
 
 - Resuorces
-    - [ ] [Documentation](https://www.markdownguide.org)
+    - [Documentation](https://www.markdownguide.org)
 
 ### Visual Studio Code
 
 - Resources
-    - [ ] [Documentation](https://code.visualstudio.com/docs)
+    - [Documentation](https://code.visualstudio.com/docs)
  
+## Programming Language
+
+### C++
+
+- Resources
+    - Docmentation: Dash   
+    - [x] C++ Primer(5th)
+        - [ ] Effective C++(3rd)
+            - [ ] Effective Modern C++ 
+                - [ ] C++ Coding Standards
+        - [ ] The C++ Standard Library(2nd)
+    
+- [Note](/Notes/C%2B%2B.md) 
+
 ## Field
 
 - Theoretical Computer Science
@@ -53,19 +67,6 @@
     - Computational Science, Finance and Engineering
     - Social Computing and Human–Computer Interaction
     - Software Engineering
-
-## Programming Language
-
-### C++
-
-- Resources
-    - [x] C++ Primer(5th)
-        - [ ] Effective C++(3rd)
-            - [ ] Effective Modern C++ 
-                - [ ] C++ Coding Standards
-        - [ ] The C++ Standard Library(2nd)
-    
-- [Note](/Notes/C%2B%2B.md)
 
 ## Data Structures and Algorithms
 
