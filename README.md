@@ -39,10 +39,10 @@
 
 - Books
     - [x] C++ Primer(5th)
-            - [ ] Effective C++(3rd)
-                - [ ] Effective Modern C++ 
-                    - [ ] C++ Coding Standards
-            - [ ] The C++ Standard Library(2nd) 
+        - [ ] Effective C++(3rd)
+            - [ ] Effective Modern C++ 
+                - [ ] C++ Coding Standards
+        - [ ] The C++ Standard Library(2nd) 
 - Resources
     - Dash   
 - [Note](/Notes/C%2B%2B.md) 
