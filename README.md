@@ -9,13 +9,16 @@
     - [Git&Github](#GitGithub)
     - [Markdown](#Markdown)
     - [Visual Studio Code](#Visual-Studio-Code)
-- [Programming Language](#Programming-Language) 
     - [C++](#C) 
 - [Field](#Field)
 - [Data Structures and Algorithms](#Data-Structures-and-Algorithms)
 - [Computer Architecture and Organization](#Computer-Architecture-and-Organization)
 - [Computer Graphics and Visualization](#Computer-Graphics-and-Visualization)
+    - [Theory](#Theory)
+    - [Programming](#Programming)
+    - [Fluid Animation/Simulation](#Fluid-Animation/Simulation)
 - [Software Engineering](#Software-Engineering)
+    - [Programming Language](#Programming-Language)  
 
 ## Tools
 
@@ -34,20 +37,6 @@
 - Resources
     - [Documentation](https://code.visualstudio.com/docs)
  
-## Programming Language
-
-### C++
-
-- Books
-    - [x] C++ Primer(5th)
-        - [ ] Effective C++(3rd)
-            - [ ] Effective Modern C++ 
-                - [ ] C++ Coding Standards
-        - [ ] The C++ Standard Library(2nd) 
-- Resources
-    - Dash   
-- [Note](/Notes/C%2B%2B.md) 
-
 ## Field
 
 - Theoretical Computer Science
@@ -62,7 +51,7 @@
     - Computer Networks
     - Computer Security and Cryptography
     - Databases and Data Mining
-    - Computer Graphics and Visualization
+    - Computer Graphics and Visualization 
     - Image and Sound Processing
 - Applied Computer Science
     - Computational Science, Finance and Engineering
@@ -88,15 +77,15 @@
 
 ## Computer Graphics and Visualization
 
-### Beginning CG Programming
-
-- Books
-    - [x] Introduction to 3D Game Programming with DirectX 12
-
-### Beginning CG Theory
+### Theory
 
 - Books
     - [ ] Fundamentals of Computer Graphics(4th)
+
+### Programming
+
+- Books
+    - [x] Introduction to 3D Game Programming with DirectX 12
 
 ### Fluid Animation/Simulation
 
@@ -118,4 +107,17 @@
         - [ ] Agile Software Development
             - [ ] Design Patterns
 - [Note]() 
+ 
+### Programming Language
 
+#### C++
+
+- Books
+    - [x] C++ Primer(5th)
+        - [ ] Effective C++(3rd)
+            - [ ] Effective Modern C++ 
+                - [ ] C++ Coding Standards
+        - [ ] The C++ Standard Library(2nd) 
+- Resources
+    - Dash   
+- [Note](/Notes/C%2B%2B.md) 
