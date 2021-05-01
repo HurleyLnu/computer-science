@@ -5,11 +5,11 @@
 
 ## Contents
 
+- [Field](#Field)
 - [Tools](#Tools)
     - [Git&Github](#GitGithub)
     - [Markdown](#Markdown)
     - [Visual Studio Code](#Visual-Studio-Code) 
-- [Field](#Field)
 - [Data Structures and Algorithms](#Data-Structures-and-Algorithms)
 - [Computer Architecture and Organization](#Computer-Architecture-and-Organization)
 - [Computer Graphics and Visualization](#Computer-Graphics-and-Visualization)
@@ -20,23 +20,6 @@
     - [Programming Language](#Programming-Language)
         - [C++](#C)   
 
-## Tools
-
-### Git&Github
-
-- Resources
-    - [Documentation](https://docs.github.com/en)
-
-### Markdown
-
-- Resuorces
-    - [Documentation](https://www.markdownguide.org)
-
-### Visual Studio Code
-
-- Resources
-    - [Documentation](https://code.visualstudio.com/docs)
- 
 ## Field
 
 - Theoretical Computer Science
@@ -58,6 +41,23 @@
     - Social Computing and Human–Computer Interaction
     - Software Engineering
 
+## Tools
+
+### Git&Github
+
+- Resources
+    - [Documentation](https://docs.github.com/en)
+
+### Markdown
+
+- Resuorces
+    - [Documentation](https://www.markdownguide.org)
+
+### Visual Studio Code
+
+- Resources
+    - [Documentation](https://code.visualstudio.com/docs)
+ 
 ## Data Structures and Algorithms
 
 - Books
