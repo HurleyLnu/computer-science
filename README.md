@@ -16,7 +16,7 @@
 - [Computer Graphics and Visualization](#Computer-Graphics-and-Visualization)
     - [Theory](#Theory)
     - [Programming](#Programming)
-    - [Fluid Animation/Simulation](#Fluid-Animation/Simulation)
+    - [Fluid Animation/Simulation](#Fluid-AnimationSimulation)
 - [Software Engineering](#Software-Engineering)
     - [Programming Language](#Programming-Language)  
 
