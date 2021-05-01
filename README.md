@@ -8,8 +8,7 @@
 - [Tools](#Tools)
     - [Git&Github](#GitGithub)
     - [Markdown](#Markdown)
-    - [Visual Studio Code](#Visual-Studio-Code)
-    - [C++](#C) 
+    - [Visual Studio Code](#Visual-Studio-Code) 
 - [Field](#Field)
 - [Data Structures and Algorithms](#Data-Structures-and-Algorithms)
 - [Computer Architecture and Organization](#Computer-Architecture-and-Organization)
@@ -18,7 +17,8 @@
     - [Programming](#Programming)
     - [Fluid Animation/Simulation](#Fluid-AnimationSimulation)
 - [Software Engineering](#Software-Engineering)
-    - [Programming Language](#Programming-Language)  
+    - [Programming Language](#Programming-Language)
+        - [C++](#C)   
 
 ## Tools
 
