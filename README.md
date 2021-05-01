@@ -11,7 +11,7 @@
     - [Visual Studio Code](#Visual-Studio-Code)
 - [Field](#Field)
 - [Programming Language](#Programming-Language) 
-    - [C++](#c) 
+    - [C++](#C) 
 - [Data Structures and Algorithms](#Data-Structures-and-Algorithms)
 - [Computer Architecture and Organization](#Computer-Architecture-and-Organization)
 - [Computer Graphics and Visualization](#Computer-Graphics-and-Visualization)
