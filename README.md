@@ -15,6 +15,7 @@
 - [Data Structures and Algorithms](#Data-Structures-and-Algorithms)
 - [Computer Architecture and Organization](#Computer-Architecture-and-Organization)
 - [Computer Graphics and Visualization](#Computer-Graphics-and-Visualization)
+- [Software Engineering](#Software-Engineering)
 
 ## Tools
 
@@ -85,11 +86,25 @@
 
 ## Computer Graphics and Visualization
 
+### Beginning CG Programming
+
 - Books
-    - [x] Introduction to 3D Game Programming with DirectX 12 
-        - [ ] Fundamentals of Computer Graphics(4th)
-            - [x] Fluid Engine Development
-- [Note]()
+    - [x] *Introduction to 3D Game Programming with DirectX 12* 
+    - [ ] *Real-Time 3D Rendering with DirectX and HLSL*
+    - [ ] *OpenGL Programming Guide(9th)*
+
+### Beginning CG Theory
+
+- Books
+    - [ ] Fundamentals of Computer Graphics(4th)
+    - [ ] *Computer Graphics Principles and Practice(3rd)*
+    - [ ] *Principles of Digtial Image Synthesis*
+    - [ ] *Digital Image Processing*
+
+### Advanced CG
+
+ 
+            
 
 ## Software Engineering
 
