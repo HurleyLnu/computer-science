@@ -31,14 +31,14 @@
 ### Visual Studio Code
 
 - Resources
-    - [ ][Documentation](https://code.visualstudio.com/docs)
+    - [ ] [Documentation](https://code.visualstudio.com/docs)
  
 ## Programming Language
 
 ### C++
 
 - Resources
-    - [ ] Docmentation: Dash   
+    - [ ] Dash   
     - [x] C++ Primer(5th)
         - [ ] Effective C++(3rd)
             - [ ] Effective Modern C++ 
