@@ -21,7 +21,7 @@
 ### Git&Github
 - Resources
     - [ ] [Documentation](https://docs.github.com/en) 
-- [Note](Notes/Git%26Github.md)
+- [Note](../Notes/Git%26Github.md)
 
 ### Markdown
 
