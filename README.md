@@ -7,8 +7,8 @@
 
 - [Field](#Field)
 - [Tools](#Tools)
-    - [Git&Github](#GitGithub)
     - [Markdown](#Markdown)
+    - [Git&Github](#GitGithub)
     - [Visual Studio Code](#Visual-Studio-Code) 
 - [Data Structures and Algorithms](#Data-Structures-and-Algorithms)
 - [Computer Architecture and Organization](#Computer-Architecture-and-Organization)
@@ -43,15 +43,15 @@
 
 ## Tools
 
-### Git&Github
-
-- Resources
-    - [Documentation](https://docs.github.com/en)
-
 ### Markdown
 
 - Resuorces
     - [Documentation](https://www.markdownguide.org)
+
+### Git&Github
+
+- Resources
+    - [Documentation](https://docs.github.com/en)
 
 ### Visual Studio Code
 
