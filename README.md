@@ -46,18 +46,18 @@
 ### Markdown
 
 - Resuorces
-    - [Documentation](https://www.markdownguide.org)
+    - [Markdown Documentation](https://www.markdownguide.org)
 
 ### Git&Github
 
 - Resources
-    - [Documentation](https://docs.github.com/en)
+    - [Github Documentation](https://docs.github.com/en)
     - [Github Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
 
 ### Visual Studio Code
 
 - Resources
-    - [Documentation](https://code.visualstudio.com/docs)
+    - [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
  
 ## Data Structures and Algorithms
 
