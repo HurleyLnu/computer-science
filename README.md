@@ -52,6 +52,7 @@
 
 - Resources
     - [Documentation](https://docs.github.com/en)
+    - [Github Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
 
 ### Visual Studio Code
 
