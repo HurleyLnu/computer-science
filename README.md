@@ -52,6 +52,7 @@
 
 - Resources
     - [Git Documentation](https://git-scm.com/doc)
+    - [Learn Git Branching](https://learngitbranching.js.org) 
     - [Github Documentation](https://docs.github.com/en)
     - [Github Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
 
