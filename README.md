@@ -51,6 +51,7 @@
 ### Git&Github
 
 - Resources
+    - [Git Documentation](https://git-scm.com/doc)
     - [Github Documentation](https://docs.github.com/en)
     - [Github Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
 
