@@ -14,7 +14,7 @@
 - [Computer Architecture and Organization](#Computer-Architecture-and-Organization)
 - [Computer Graphics and Visualization](#Computer-Graphics-and-Visualization)
     - [Theory](#Theory)
-    - [Programming](#Programming)
+    - [API](#API)
     - [Fluid Animation/Simulation](#Fluid-AnimationSimulation)
 - [Software Engineering](#Software-Engineering)
     - [Programming Language](#Programming-Language)
@@ -85,7 +85,7 @@
 - Books
     - [ ] Fundamentals of Computer Graphics(4th)
 
-### Programming
+### API
 
 - Books
     - [x] Introduction to 3D Game Programming with DirectX 12
