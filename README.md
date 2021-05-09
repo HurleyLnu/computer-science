@@ -9,6 +9,7 @@
 - [Tools](#Tools)
     - [Markdown](#Markdown)
     - [Git&Github](#GitGithub)
+    - [Visual Studio](#Visual-Studio)
     - [Visual Studio Code](#Visual-Studio-Code) 
 - [Data Structures and Algorithms](#Data-Structures-and-Algorithms)
 - [Computer Architecture and Organization](#Computer-Architecture-and-Organization)
@@ -55,6 +56,11 @@
     - [Learn Git Branching](https://learngitbranching.js.org) 
     - [Github Documentation](https://docs.github.com/en)
     - [Github Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
+
+### Visual Studio
+
+- Resource
+    - [Visual Studio Documentation](https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2019&preserve-view=true) 
 
 ### Visual Studio Code
 
