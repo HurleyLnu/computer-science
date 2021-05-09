@@ -18,6 +18,7 @@
     - [API](#API)
     - [Fluid Animation/Simulation](#Fluid-AnimationSimulation)
 - [Software Engineering](#Software-Engineering)
+    - [Theory](#Theory)
     - [Programming Language](#Programming-Language)
         - [C++](#C)   
 
@@ -105,6 +106,8 @@
 - [Note]() 
 
 ## Software Engineering
+
+### Theory
 
 - Books
     - [ ] The Mythical Man-Month(2nd)
