@@ -14,11 +14,11 @@
 - [Data Structures and Algorithms](#Data-Structures-and-Algorithms)
 - [Computer Architecture and Organization](#Computer-Architecture-and-Organization)
 - [Computer Graphics and Visualization](#Computer-Graphics-and-Visualization)
-    - [Theory](#Theory-of-Computer-Graphics)
+    - [Theory of Computer Graphics](#Theory-of-Computer-Graphics)
     - [API](#API)
     - [Fluid Animation/Simulation](#Fluid-AnimationSimulation)
 - [Software Engineering](#Software-Engineering)
-    - [Theory](#Theory-of-Software-Engineering)
+    - [Theory of Software Engineering](#Theory-of-Software-Engineering)
     - [Programming Language](#Programming-Language)
         - [C++](#C)   
 
