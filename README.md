@@ -112,5 +112,5 @@
    - [ ] Effective C++(3rd)
         - [ ] Effective Modern C++ 
             - [ ] C++ Coding Standards
-    - [ ] The C++ Standard Library(2nd) 
-- Dash 
+    - [ ] The C++ Standard Library(2nd)
+- Dash Documenation
