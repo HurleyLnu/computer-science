@@ -96,7 +96,7 @@
 ### Fluid Animation/Simulation
 
 - Books
-    - [ ] Fluid Engine Development
+    - [x] Fluid Engine Development
     - [ ] The Art of Fluid Animation
     - [ ] Fluid Simulation for Computer Graphics(2nd)
 - [Note]() 
