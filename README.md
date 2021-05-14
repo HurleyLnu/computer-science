@@ -90,7 +90,9 @@
 ### DirectX 12 3D
 
 - [x] Introduction to 3D Game Programming with DirectX 12
-
+- [Documentation](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
+- [Mircrosfot Samples](https://github.com/Microsoft/DirectX-Graphics-Samples)
+ 
 ## Software Engineering
 
 ### Base of Software Engineering
@@ -103,7 +105,7 @@
                 - [ ] Working Effectively with Legacy Code
     - [ ] Agile Software Development
         - [ ] Design Patterns
- 
+
 ### Programming Language
 
 #### C++
