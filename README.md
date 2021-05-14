@@ -14,11 +14,11 @@
 - [Data Structures and Algorithms](#Data-Structures-and-Algorithms)
 - [Computer Architecture and Organization](#Computer-Architecture-and-Organization)
 - [Computer Graphics and Visualization](#Computer-Graphics-and-Visualization)
-    - [Theory of Computer Graphics](#Theory-of-Computer-Graphics)
+    - [Base of Computer Graphics](#Base-of-Computer-Graphics)
     - [Fluid](#Fluid)
     - [DirectX 12 3D](#DirectX-12-3D)
 - [Software Engineering](#Software-Engineering)
-    - [Theory of Software Engineering](#Theory-of-Software-Engineering)
+    - [Base of Software Engineering](#Base-of-Software-Engineering)
     - [Programming Language](#Programming-Language)
         - [C++](#C)   
 
@@ -93,7 +93,7 @@
 
 ## Software Engineering
 
-### Theory of Software Engineering
+### Base of Software Engineering
 
 - [ ] The Mythical Man-Month(2nd)
     - [ ] The Practice of Programming
