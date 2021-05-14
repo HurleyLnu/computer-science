@@ -11,6 +11,7 @@
     - [Git&Github](#GitGithub)
     - [Visual Studio](#Visual-Studio)
     - [Visual Studio Code](#Visual-Studio-Code) 
+    - [Download Books](#Download-Books)
 - [Data Structures and Algorithms](#Data-Structures-and-Algorithms)
 - [Computer Architecture and Organization](#Computer-Architecture-and-Organization)
 - [Computer Graphics and Visualization](#Computer-Graphics-and-Visualization)
@@ -47,26 +48,23 @@
 
 ### Markdown
 
-- Resuorces
-    - [Markdown Documentation](https://www.markdownguide.org)
+- [Markdown Documentation](https://www.markdownguide.org)
 
 ### Git&Github
 
-- Resources
-    - [Git Documentation](https://git-scm.com/doc)
-    - [Learn Git Branching](https://learngitbranching.js.org) 
-    - [Github Documentation](https://docs.github.com/en)
-    - [Github Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
+- [Git Documentation](https://git-scm.com/doc)
+- [Learn Git Branching](https://learngitbranching.js.org) 
+- [Github Documentation](https://docs.github.com/en)
+- [Github Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
+- [Download Books](https://tyi45di4ct.jiandaoyun.com/dash/5e7d915c6c56d8000674a8b8)
 
 ### Visual Studio
 
-- Resource
-    - [Visual Studio Documentation](https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2019&preserve-view=true) 
+- [Visual Studio Documentation](https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2019&preserve-view=true) 
 
 ### Visual Studio Code
 
-- Resources
-    - [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
+- [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
  
 ## Data Structures and Algorithms
 
