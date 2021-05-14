@@ -15,8 +15,8 @@
 - [Computer Architecture and Organization](#Computer-Architecture-and-Organization)
 - [Computer Graphics and Visualization](#Computer-Graphics-and-Visualization)
     - [Theory of Computer Graphics](#Theory-of-Computer-Graphics)
-    - [API](#API)
-    - [Fluid Animation/Simulation](#Fluid-AnimationSimulation)
+    - [Fluid](#Fluid)
+    - [DirectX 12 3D](#DirectX-12-3D)
 - [Software Engineering](#Software-Engineering)
     - [Theory of Software Engineering](#Theory-of-Software-Engineering)
     - [Programming Language](#Programming-Language)
@@ -66,66 +66,51 @@
  
 ## Data Structures and Algorithms
 
-- Books
-    - [ ] Introduction to Algorithms(3rd)
-- [Note](/Notes/Data%20Structures%20and%20Algorithms.md)
+- [ ] Introduction to Algorithms(3rd)
 
 ## Computer Architecture and Organization
 
-- Books
-    - [ ] Structure and Interpretation of Computer Programs(2nd)
-    - [ ] Computer Systems A Programmer's Perspective(3rd)
-        - [ ] Computer Architecture(5th)
-        - [ ] Modern Operating System(4th)
-- Resources
-    - [ ] [CSAPP Course](https://www.bilibili.com/video/av24540152)  
-- [Note]()
+- [ ] Structure and Interpretation of Computer Programs(2nd)
+- [ ] Computer Systems A Programmer's Perspective(3rd)
+    - [ ] Computer Architecture(5th)
+    - [ ] Modern Operating System(4th)
 
 ## Computer Graphics and Visualization
 
 ### Theory of Computer Graphics
 
-- Books
-    - [ ] Fundamentals of Computer Graphics(4th)
+- [ ] Fundamentals of Computer Graphics(4th)
 
-### API
+### Fluid
 
-- Books
-    - [x] Introduction to 3D Game Programming with DirectX 12
+- [x] Fluid Engine Development
+- [ ] The Art of Fluid Animation
+- [ ] Fluid Simulation for Computer Graphics(2nd)
 
-### Fluid Animation/Simulation
+### DirectX 12 3D
 
-- Books
-    - [x] Fluid Engine Development
-    - [ ] The Art of Fluid Animation
-    - [ ] Fluid Simulation for Computer Graphics(2nd)
-- [Note]() 
+- [x] Introduction to 3D Game Programming with DirectX 12
 
 ## Software Engineering
 
 ### Theory of Software Engineering
 
-- Books
-    - [ ] The Mythical Man-Month(2nd)
-        - [ ] The Practice of Programming
-            - [ ] Refactoring
-                - [ ] Code Complete(2nd) 
-                    - [ ] Clean Code
-                    - [ ] Working Effectively with Legacy Code
-        - [ ] Agile Software Development
-            - [ ] Design Patterns
-- [Note]() 
+- [ ] The Mythical Man-Month(2nd)
+    - [ ] The Practice of Programming
+        - [ ] Refactoring
+            - [ ] Code Complete(2nd) 
+                - [ ] Clean Code
+                - [ ] Working Effectively with Legacy Code
+    - [ ] Agile Software Development
+        - [ ] Design Patterns
  
 ### Programming Language
 
 #### C++
 
-- Books
-    - [x] C++ Primer(5th)
-        - [ ] Effective C++(3rd)
-            - [ ] Effective Modern C++ 
-                - [ ] C++ Coding Standards
-        - [ ] The C++ Standard Library(2nd) 
-- Resources
-    - Dash   
-- [Note](/Notes/C%2B%2B.md) 
+- [x] C++ Primer(5th)
+   - [ ] Effective C++(3rd)
+        - [ ] Effective Modern C++ 
+            - [ ] C++ Coding Standards
+    - [ ] The C++ Standard Library(2nd) 
+- Dash 
