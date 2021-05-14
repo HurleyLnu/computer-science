@@ -10,8 +10,7 @@
     - [Markdown](#Markdown)
     - [Git&Github](#GitGithub)
     - [Visual Studio](#Visual-Studio)
-    - [Visual Studio Code](#Visual-Studio-Code) 
-    - [Library](#Library)
+    - [Visual Studio Code](#Visual-Studio-Code)
 - [Data Structures and Algorithms](#Data-Structures-and-Algorithms)
 - [Computer Architecture and Organization](#Computer-Architecture-and-Organization)
 - [Computer Graphics and Visualization](#Computer-Graphics-and-Visualization)
@@ -65,10 +64,6 @@
 
 - [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
  
-### Library
-
-- [Library](https://tyi45di4ct.jiandaoyun.com/dash/5e7d915c6c56d8000674a8b8)
-
 ## Data Structures and Algorithms
 
 - Books
