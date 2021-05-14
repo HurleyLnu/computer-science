@@ -11,7 +11,7 @@
     - [Git&Github](#GitGithub)
     - [Visual Studio](#Visual-Studio)
     - [Visual Studio Code](#Visual-Studio-Code) 
-    - [Download Books](#Download-Books)
+    - [Library](#Library)
 - [Data Structures and Algorithms](#Data-Structures-and-Algorithms)
 - [Computer Architecture and Organization](#Computer-Architecture-and-Organization)
 - [Computer Graphics and Visualization](#Computer-Graphics-and-Visualization)
@@ -56,7 +56,6 @@
 - [Learn Git Branching](https://learngitbranching.js.org) 
 - [Github Documentation](https://docs.github.com/en)
 - [Github Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
-- [Download Books](https://tyi45di4ct.jiandaoyun.com/dash/5e7d915c6c56d8000674a8b8)
 
 ### Visual Studio
 
@@ -66,6 +65,10 @@
 
 - [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
  
+### Library
+
+- [Library](https://tyi45di4ct.jiandaoyun.com/dash/5e7d915c6c56d8000674a8b8)
+
 ## Data Structures and Algorithms
 
 - Books
