@@ -1,7 +1,7 @@
 # Computer Science
 
 > Computer science is the study of algorithmic processes, computational machines and
-> computation itself.:coffee:
+> computation itself.
 
 ## Contents
 
