@@ -16,7 +16,7 @@
 - [Computer Graphics and Visualization](#Computer-Graphics-and-Visualization)
     - [Base of Computer Graphics](#Base-of-Computer-Graphics)
     - [Fluid](#Fluid)
-    - [DirectX 12 3D](#DirectX-12-3D)
+    - [Direct3D12 ](#Direct3D12)
 - [Software Engineering](#Software-Engineering)
     - [Base of Software Engineering](#Base-of-Software-Engineering)
     - [Programming Language](#Programming-Language)
@@ -87,7 +87,7 @@
 - [ ] The Art of Fluid Animation
 - [ ] Fluid Simulation for Computer Graphics(2nd)
 
-### DirectX 12 3D
+### Direct3D12
 
 - [x] Introduction to 3D Game Programming with DirectX 12
 - [Documentation](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
