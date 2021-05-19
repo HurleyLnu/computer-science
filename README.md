@@ -92,7 +92,7 @@
 - [x] Introduction to 3D Game Programming with DirectX 12
 - [Documentation](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
 - [Mircrosoft Samples](https://github.com/Microsoft/DirectX-Graphics-Samples)
-- [discord](https://discord.com/channels/590611987420020747/590967934914920485)
+- [Discord](https://discord.com/channels/590611987420020747/590967934914920485)
  
 ## Software Engineering
 
