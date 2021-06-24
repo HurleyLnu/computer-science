@@ -6,11 +6,6 @@
 ## Contents
 
 - [Field](#Field)
-- [Tools](#Tools)
-    - [Markdown](#Markdown)
-    - [Git&Github](#GitGithub)
-    - [Visual Studio](#Visual-Studio)
-    - [Visual Studio Code](#Visual-Studio-Code)
 - [Data Structures and Algorithms](#Data-Structures-and-Algorithms)
 - [Computer Architecture and Organization](#Computer-Architecture-and-Organization)
 - [Computer Networks](#Computer-Networks)
@@ -22,7 +17,12 @@
 - [Software Engineering](#Software-Engineering)
     - [Base of Software Engineering](#Base-of-Software-Engineering)
     - [Programming Language](#Programming-Language)
-        - [C++](#C)   
+        - [C++](#C)
+- [Tools](#Tools)
+    - [Markdown](#Markdown)
+    - [Git&Github](#GitGithub)
+    - [Visual Studio](#Visual-Studio)
+    - [Visual Studio Code](#Visual-Studio-Code)   
 
 ## Field
 
@@ -45,27 +45,6 @@
     - Social Computing and Human–Computer Interaction
     - Software Engineering
 
-## Tools
-
-### Markdown
-
-- [Markdown Documentation](https://www.markdownguide.org)
-
-### Git&Github
-
-- [Git Documentation](https://git-scm.com/doc)
-- [Learn Git Branching](https://learngitbranching.js.org) 
-- [Github Documentation](https://docs.github.com/en)
-- [Github Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
-
-### Visual Studio
-
-- [Visual Studio Documentation](https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2019&preserve-view=true) 
-
-### Visual Studio Code
-
-- [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
- 
 ## Data Structures and Algorithms
 
 - [ ] Introduction to Algorithms(3rd)
@@ -125,3 +104,24 @@
             - [ ] C++ Coding Standards
     - [ ] The C++ Standard Library(2nd)
 - Dash Documenation
+
+## Tools
+
+### Markdown
+
+- [Markdown Documentation](https://www.markdownguide.org)
+
+### Git&Github
+
+- [Git Documentation](https://git-scm.com/doc)
+- [Learn Git Branching](https://learngitbranching.js.org) 
+- [Github Documentation](https://docs.github.com/en)
+- [Github Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
+
+### Visual Studio
+
+- [Visual Studio Documentation](https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2019&preserve-view=true) 
+
+### Visual Studio Code
+
+- [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
