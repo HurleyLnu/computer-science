@@ -22,7 +22,8 @@
     - [Markdown](#Markdown)
     - [Git&Github](#GitGithub)
     - [Visual Studio](#Visual-Studio)
-    - [Visual Studio Code](#Visual-Studio-Code)   
+    - [Visual Studio Code](#Visual-Studio-Code)
+- [Misc](#Misc)    
 
 ## Field
 
