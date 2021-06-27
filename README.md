@@ -131,3 +131,4 @@
 
 - [Computing Classification System](https://dl.acm.org/ccs) 
 - [Self-taught](https://github.com/ossu/computer-science)
+- [awesome](https://github.com/sindresorhus/awesome)
