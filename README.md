@@ -58,7 +58,7 @@
 
 ## Computer Networks
 
-- [MDN Web Docs](https://developer.mozilla.org/en-US/) 
+- [Web Development](https://developer.mozilla.org/en-US/) 
 
 ## Computer Graphics and Visualization
 
@@ -125,3 +125,8 @@
 ### Visual Studio Code
 
 - [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
+
+## Misc
+
+- [Computing Classification System](https://dl.acm.org/ccs) 
+- [Self-taught](https://github.com/ossu/computer-science)
